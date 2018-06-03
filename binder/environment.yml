@@ -23,4 +23,4 @@ dependencies:
 - traittypes==0.0.6
 - invoke=0.21
 - pip:
- - nsepy=0.6
+  - nsepy=0.6
